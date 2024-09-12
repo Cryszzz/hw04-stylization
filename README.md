@@ -6,10 +6,6 @@ https://github.com/Cryszzz/hw04-stylization/assets/69176305/c5b813eb-f065-4c48-8
 
 
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/Cryszzz/hw04-stylization/edit/main/demo.mov" type="video/mp4">
-</video>
-
 ### References:
 ![](./ref.jpeg)
 ![](./ref2.png)
